@@ -1,6 +1,6 @@
-package creational.singletonexample.threadsafesingleton;
+package creational.singletonexamplewithstrategy.threadsafesingleton;
 
-import creational.singletonexample.abstractsingleton.AbstractSingleton;
+import creational.singletonexamplewithstrategy.abstractsingleton.AbstractSingleton;
 
 public class ThreadSafeSingleton extends AbstractSingleton {
 

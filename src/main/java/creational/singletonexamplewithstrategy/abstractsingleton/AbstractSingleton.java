@@ -1,4 +1,4 @@
-package creational.singletonexample.abstractsingleton;
+package creational.singletonexamplewithstrategy.abstractsingleton;
 
 public abstract class AbstractSingleton {
 

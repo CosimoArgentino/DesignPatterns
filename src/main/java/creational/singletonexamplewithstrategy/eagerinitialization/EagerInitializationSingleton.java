@@ -1,6 +1,6 @@
-package creational.singletonexample.eagerinitialization;
+package creational.singletonexamplewithstrategy.eagerinitialization;
 
-import creational.singletonexample.abstractsingleton.AbstractSingleton;
+import creational.singletonexamplewithstrategy.abstractsingleton.AbstractSingleton;
 
 public class EagerInitializationSingleton extends AbstractSingleton {
 
