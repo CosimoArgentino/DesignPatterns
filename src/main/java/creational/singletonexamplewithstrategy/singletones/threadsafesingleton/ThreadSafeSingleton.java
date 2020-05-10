@@ -1,4 +1,4 @@
-package creational.singletonexamplewithstrategy.threadsafesingleton;
+package creational.singletonexamplewithstrategy.singletones.threadsafesingleton;
 
 import creational.singletonexamplewithstrategy.abstractsingleton.AbstractSingleton;
 

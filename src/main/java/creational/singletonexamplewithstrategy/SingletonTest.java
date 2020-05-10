@@ -1,8 +1,8 @@
 package creational.singletonexamplewithstrategy;
 
 import creational.singletonexamplewithstrategy.abstractsingleton.AbstractSingleton;
-import creational.singletonexamplewithstrategy.eagerinitialization.EagerInitializationSingletonImpl;
-import creational.singletonexamplewithstrategy.threadsafesingleton.ThreadSafeSingletonImpl;
+import creational.singletonexamplewithstrategy.singletones.eagerinitializationsingleton.EagerInitializationSingletonImpl;
+import creational.singletonexamplewithstrategy.singletones.threadsafesingleton.ThreadSafeSingletonImpl;
 
 public class SingletonTest {
     public static void main(String[] args){

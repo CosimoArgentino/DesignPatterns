@@ -1,4 +1,4 @@
-package creational.singletonexamplewithstrategy.eagerinitialization;
+package creational.singletonexamplewithstrategy.singletones.eagerinitializationsingleton;
 
 import creational.singletonexamplewithstrategy.abstractsingleton.AbstractSingleton;
 import creational.singletonexamplewithstrategy.interfaces.ICreateSingleton;
