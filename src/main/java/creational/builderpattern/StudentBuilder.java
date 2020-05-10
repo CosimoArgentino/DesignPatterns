@@ -5,17 +5,9 @@ public class StudentBuilder {
     private String firstName;
     private String lastName;
 
-    public String getFirstName() {
-        return firstName;
-    }
-
     public StudentBuilder setFirstName(String firstName) {
         this.firstName = firstName;
         return this;
-    }
-
-    public String getLastName() {
-        return lastName;
     }
 
     public StudentBuilder setLastName(String lastName) {
